@@ -8,7 +8,7 @@ Nosso objetivo nesse projeto é criar grupos de clientes com caracteristicas sem
 
 
 ### Analise Exploratória
-
+l
 
 
 
