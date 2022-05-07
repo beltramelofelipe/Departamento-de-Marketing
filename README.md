@@ -12,9 +12,9 @@ No banco à diversos comportamentos que podemos identificar dos clientes atravé
 Os dados como foram extraidos da plataforma kaggle
 <table>
 abaixo os atributos:
-  <tr><td>Atributo </td><td>Atributo</td>Descrição</tr>  
+  <tr><td>Atributo </td><td>Descrição</td></tr>  
 
-CUSTID : Identificação do cliente
+<tr><td>CUSTID</td><td> <tr><td>Identificação do cliente/td><td> 
 BALANCE : Saldo para fazer compras
 BALANCEFREQUENCY : Frequencia que o saldo é atualizado (1 = frequente, 0 = não frequente)
 PURCHASES : Quantidade de compras realizadas
