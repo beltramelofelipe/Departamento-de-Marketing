@@ -14,24 +14,24 @@ Os dados como foram extraidos da plataforma kaggle
 abaixo os atributos:
   <tr><td>Atributo </td><td>Descrição</td></tr>  
 
-  <tr><td>CUSTID</td><td>Identificação do cliente</td></tr>
-  <tr><td>BALANCE</td><td>Saldo para fazer compras</td></tr>
-  <tr><td>BALANCEFREQUENCY</td><td>Frequencia que o saldo é atualizado (1 = frequente, 0 = não frequente)</td></tr>
-  <tr><td>PURCHASES</td><td>Quantidade de compras realizadas</td></tr>
-  <tr><td>ONEOFFPURCHASES</td><td>Quantidade de compras feitas "de uma só vez"</td></tr>
-  <tr><td>INSTALLMENTSPURCHASES</td><td>Quantidade de compras parceladas</td></tr>
-  <tr><td>CASHADVANCE</td><td></td>Dinheiro adinhantado</tr>
-  <tr><td>PURCHASESFREQUENCY</td><td>Com que frequência as compras estão sendo feitas, pontuação entre 0 e 1 (1 = comprado com frequência, 0 = não comprado com frequência)</td></tr>
-  <tr><td>ONEOFFPURCHASESFREQUENCY</td><td>Frequencia de compras a vista (1 = frequente, 0 = não frequente)</td></tr>
-  <tr><td>PURCHASESINSTALLMENTSFREQUENCY</td><td> Frequencia de compras parceladas ( 1 = frequente, 0 = não frequente)</td></tr>
-  <tr><td>CASHADVANCEFREQUENCY</td><td>Frequencia de saques de dinheiro adiantado</td></tr>
-  <tr><td>CASHADVANCETRX</td><td>Número de transações feitas com "Cash in Advanced"</td></tr>
-  <tr><td>PURCHASESTRX</td><td>Número de compras</td></tr>
-  <tr><td>CREDITLIMIT</td><td>Limite de cartão de crédito</td></tr>
-  <tr><td>PAYMENTS</td><td>Valor Pago</td></tr>
-  <tr><td>MINIMUM_PAYMENTS</td><td>Valor mínimo pago</td></tr>
-  <tr><td>PRCFULLPAYMENT</td><td>Percentual de pagamento de fatura "completa"</td></tr>
-  <tr><td>TENURE</td><td>Posse do titular do cartão</td></tr>
+  <tr><td><b>CUSTID</b></td><td>Identificação do cliente</td></tr>
+  <tr><td><b>BALANCE</b></td><td>Saldo para fazer compras</td></tr>
+  <tr><td><b>BALANCEFREQUENCY</b></td><td>Frequencia que o saldo é atualizado (1 = frequente, 0 = não frequente)</td></tr>
+  <tr><td><b>PURCHASES</b></td><td>Quantidade de compras realizadas</td></tr>
+  <tr><td><b>ONEOFFPURCHASES</b></td><td>Quantidade de compras feitas "de uma só vez"</td></tr>
+  <tr><td><b>INSTALLMENTSPURCHASES</b></td><td>Quantidade de compras parceladas</td></tr>
+  <tr><td><b>CASHADVANCE</b></td><td></td>Dinheiro adinhantado</tr>
+  <tr><td><b>PURCHASESFREQUENCY</b></td><td>Com que frequência as compras estão sendo feitas, pontuação entre 0 e 1 (1 = comprado com frequência, 0 = não comprado com frequência)</td></tr>
+  <tr><td><b>ONEOFFPURCHASESFREQUENCY</b></td><td>Frequencia de compras a vista (1 = frequente, 0 = não frequente)</td></tr>
+  <tr><td><b>PURCHASESINSTALLMENTSFREQUENCY</b></td><td> Frequencia de compras parceladas ( 1 = frequente, 0 = não frequente)</td></tr>
+  <tr><td><b>CASHADVANCEFREQUENCY</b></td><td>Frequencia de saques de dinheiro adiantado</td></tr>
+  <tr><td><b>CASHADVANCETRX</b></td><td>Número de transações feitas com "Cash in Advanced"</td></tr>
+  <tr><td><b>PURCHASESTRX</b></td><td>Número de compras</td></tr>
+  <tr><td><b>CREDITLIMIT</b></td><td>Limite de cartão de crédito</td></tr>
+  <tr><td><b>PAYMENTS</b></td><td>Valor Pago</td></tr>
+  <tr><td><b>MINIMUM_PAYMENTS</b></td><td>Valor mínimo pago</td></tr>
+  <tr><td><b>PRCFULLPAYMENT</b></td><td>Percentual de pagamento de fatura "completa"</td></tr>
+  <tr><td><b>TENURE</b></td><td>Posse do titular do cartão</td></tr>
 
 </table> 
  
