@@ -12,6 +12,7 @@ No banco à diversos comportamentos que podemos identificar dos clientes atravé
 Os dados como foram extraidos da plataforma kaggle
 <table>
 abaixo os atributos:
+  <br>
   <tr><td><b><i>Atributo</b><i></td><td><b><i>Descrição</b></i></td></tr>  
 
   <tr><td><b>CUSTID</b></td><td>Identificação do cliente</td></tr>
@@ -20,7 +21,7 @@ abaixo os atributos:
   <tr><td><b>PURCHASES</b></td><td>Quantidade de compras realizadas</td></tr>
   <tr><td><b>ONEOFFPURCHASES</b></td><td>Quantidade de compras feitas "de uma só vez"</td></tr>
   <tr><td><b>INSTALLMENTSPURCHASES</b></td><td>Quantidade de compras parceladas</td></tr>
-  <tr><td><b>CASHADVANCE</b></td><td></td>Dinheiro adinhantado</tr>
+  <tr><td><b>CASHADVANCE</b></td><td>Dinheiro adinhantado</td></tr>
   <tr><td><b>PURCHASESFREQUENCY</b></td><td>Com que frequência as compras estão sendo feitas, pontuação entre 0 e 1 (1 = comprado com frequência, 0 = não comprado com frequência)</td></tr>
   <tr><td><b>ONEOFFPURCHASESFREQUENCY</b></td><td>Frequencia de compras a vista (1 = frequente, 0 = não frequente)</td></tr>
   <tr><td><b>PURCHASESINSTALLMENTSFREQUENCY</b></td><td> Frequencia de compras parceladas ( 1 = frequente, 0 = não frequente)</td></tr>
