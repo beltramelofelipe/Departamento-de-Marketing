@@ -11,8 +11,8 @@ No banco à diversos comportamentos que podemos identificar dos clientes atravé
 
 Os dados como foram extraidos da plataforma kaggle
 <table>
-abaixo os atributos:
-  <br>
+abaixo os atributos:</br>
+  
   <tr><td><b><i>Atributo</b><i></td><td><b><i>Descrição</b></i></td></tr>  
 
   <tr><td><b>CUSTID</b></td><td>Identificação do cliente</td></tr>
