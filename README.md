@@ -14,8 +14,8 @@ Os dados como foram extraidos da plataforma kaggle
 abaixo os atributos:
   <tr><td>Atributo </td><td>Descrição</td></tr>  
 
-<tr><td>CUSTID</td><td> <tr><td>Identificação do cliente/td><td> 
-BALANCE : Saldo para fazer compras
+  <tr><td>CUSTID</td><td>Identificação do cliente</td></tr>
+  <tr><td>BALANCE</td><td>Saldo para fazer compras</td></tr>
 BALANCEFREQUENCY : Frequencia que o saldo é atualizado (1 = frequente, 0 = não frequente)
 PURCHASES : Quantidade de compras realizadas
 ONEOFFPURCHASES : Quantidade de compras feitas "de uma só vez"
