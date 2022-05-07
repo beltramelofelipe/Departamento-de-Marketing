@@ -10,8 +10,10 @@ No banco à diversos comportamentos que podemos identificar dos clientes atravé
 ### Dados
 
 Os dados como foram extraidos da plataforma kaggle
-
+<table>
 abaixo os atributos:
+  <tr><td>Atributo </td>td>Atributo </td>Descrição</tr>  
+
 CUSTID : Identificação do cliente
 BALANCE : Saldo para fazer compras
 BALANCEFREQUENCY : Frequencia que o saldo é atualizado (1 = frequente, 0 = não frequente)
@@ -30,6 +32,8 @@ PAYMENTS : Valor Pago
 MINIMUM_PAYMENTS : Valor mínimo pago
 PRCFULLPAYMENT : Percentual de pagamento de fatura "completa"
 TENURE : Posse do titular do cartão
+</table> 
+ 
 
 
 
