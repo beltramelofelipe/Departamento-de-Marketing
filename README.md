@@ -12,7 +12,7 @@ No banco à diversos comportamentos que podemos identificar dos clientes atravé
 Os dados como foram extraidos da plataforma kaggle
 <table>
 abaixo os atributos:
-  <tr><td>Atributo </td><td>Descrição</td></tr>  
+  <tr><td><b><i>Atributo</b><i></td><td><b><i>Descrição</b></i></td></tr>  
 
   <tr><td><b>CUSTID</b></td><td>Identificação do cliente</td></tr>
   <tr><td><b>BALANCE</b></td><td>Saldo para fazer compras</td></tr>
