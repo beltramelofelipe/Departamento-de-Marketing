@@ -41,6 +41,10 @@ Abaixo os atributos:
  
 
 ### Analise Exploratoria
+Valores 'NaN'
+Verificação do tipo de dados
+Estatistica descritiva
+  
 
 
 
