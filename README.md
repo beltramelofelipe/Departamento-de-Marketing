@@ -54,7 +54,12 @@ Apos realizar analise descritiva dos dados, vamos realizar a preparação dos da
   
 ### KMEANS
 Nessa etapa com os dados pré processados, vamos utilizar o Kmeans para realizar o agrupamento dos dados, vamos realizar com 20 clusters e validar com quantos clusters nós temos menos erro.
- 
+<br>
+ Apos os teste, vamos usar 8 clusters para nossa base pois é o número de cluster onde nosso teste teve menos erro.
+  
+ ### Conclusão
+
+  
 
   
   
