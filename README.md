@@ -48,5 +48,14 @@ Abaixo os atributos:
   <li>Estatistica descritiva</li>
 </ol>
 
+### Preparação dos dados
+  
+Apos realizar analise descritiva dos dados, vamos realizar a preparação dos dados.
+  
+### KMEANS
+Nessa etapa com os dados pré processados, vamos utilizar o Kmeans para realizar o agrupamento dos dados, vamos realizar com 20 clusters e validar com quantos clusters nós temos menos erro.
+ 
 
+  
+  
 
